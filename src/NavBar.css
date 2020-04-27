@@ -1,0 +1,18 @@
+nav {
+    background-color: #333;
+    height: 40px;
+
+}
+button {
+    float: left;
+    background-color: #aaa;
+    min-width: 80px;
+    height: 100%;
+}
+button.right {
+    float: right;
+}
+.content {
+    width: 80%;
+    margin: 0 auto;
+}
